@@ -1,4 +1,2 @@
-# gitpro6
-My first git repo
-Text edited
-"Text edited after changing master to main"
+# gitpro6"
+Git repo to use for practicing with vscode online platform via tablet and phone
